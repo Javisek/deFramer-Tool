@@ -1,0 +1,5 @@
+tkinterdnd2
+pyinstaller
+requests
+numpy
+beautifulsoup4
